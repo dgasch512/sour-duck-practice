@@ -109,7 +109,6 @@ a{
   overflow: hidden;
   /* margin: 20px; */
   /* image-orientation:  */
-  
 }
 
 /* .menu h2 {
@@ -122,11 +121,11 @@ hr {
   /* height: .1px; */
   color: black;
   border: .5px solid black;
-
 } 
-.main {
+
+/* .main {
   
-}
+} */
 .main-text {
   width: 100%;
   height: auto;

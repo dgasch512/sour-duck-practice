@@ -208,7 +208,7 @@ a{
   font-size: 12px;
   color: #222;
 }
-@media (min-width: 576px) {
+/* @media (min-width: 576px) { */
   /* #mainNav {
     height: 200px;
   } */
